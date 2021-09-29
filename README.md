@@ -1,6 +1,6 @@
-# Dracula for Anki (https://apps.ankiweb.net/)
+# Dracula for [Anki](https://apps.ankiweb.net/)
 
-> A dark theme for Anki (https://apps.ankiweb.net/).
+> A dark theme for [Anki](https://apps.ankiweb.net/).
 
 ![Screenshot](./screenshot.png)
 
